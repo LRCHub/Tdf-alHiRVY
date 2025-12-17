@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "トゲめくスピカ",
+  "base_artist": "Polkadot Stingray",
+  "createdAt": "2025-12-17T12:46:50.247654Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "トゲめくスピカ",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/01_トゲめくスピカ_Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Togemeku Spica [トゲめくスピカ]",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/02_Togemeku_Spica_[トゲめくスピカ]_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "トゲめくスピカ - タテヨコ ver.",
+      "artist": "Polkadot Stingray",
+      "has_synced": true,
+      "path": "select/03_トゲめくスピカ_-_タテヨコ_ver._Polkadot_Stingray.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "トゲめくスピカ (タテヨコ Ver.)",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/04_トゲめくスピカ_(タテヨコ_Ver.)_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "トゲめくスピカ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/05_トゲめくスピカ_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "トゲめくスピカ (タテヨコ ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/06_トゲめくスピカ_(タテヨコ_ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "トゲめくスピカ（タテヨコ ver.）",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": true,
+      "path": "select/07_トゲめくスピカ(タテヨコ_ver.)_ポルカドットスティングレイ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トゲめくスピカ（タテヨコ ver.）",
+      "artist": "POLKADOT STINGRAY",
+      "has_synced": true,
+      "path": "select/08_トゲめくスピカ(タテヨコ_ver.)_POLKADOT_STINGRAY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "トゲめくスピカ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_01_トゲめくスピカ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "トゲめくスピカ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_02_トゲめくスピカ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "トゲめくスピカ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_03_トゲめくスピカ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "トゲめくスピカ",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_04_トゲめくスピカ_ポルカドットスティングレイ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "トゲめくスピカ(タテヨコ ver.)",
+      "artist": "ポルカドットスティングレイ",
+      "has_synced": false,
+      "path": "select/pl_05_トゲめくスピカ(タテヨコ_ver.)_ポルカドットスティングレイ.txt"
+    }
+  ]
+}
